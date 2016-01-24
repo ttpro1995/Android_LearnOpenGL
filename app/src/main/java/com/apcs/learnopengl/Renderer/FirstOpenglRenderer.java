@@ -1,4 +1,4 @@
-package com.apcs.learnopengl;
+package com.apcs.learnopengl.Renderer;
 
 import android.opengl.GLSurfaceView;
 import static android.opengl.GLES20.GL_COLOR_BUFFER_BIT;

@@ -8,6 +8,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
+import com.apcs.learnopengl.Renderer.FirstOpenglRenderer;
+
 public class MainActivity extends AppCompatActivity {
     private String LOG_TAG = MainActivity.class.getSimpleName();
     private GLSurfaceView mGLSurfaceView =null;

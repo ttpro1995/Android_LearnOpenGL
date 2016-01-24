@@ -1,4 +1,4 @@
-package com.apcs.learnopengl;
+package com.apcs.learnopengl.Renderer;
 
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
